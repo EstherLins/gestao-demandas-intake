@@ -25,7 +25,7 @@ Um fluxo de intake estruturado, do pedido até o registro auditável:
 ## Resultado
 
 - Eliminação de solicitações "perdidas" por canal informal
-- Base estruturada que alimenta diretamente o [dashboard de acompanhamento](#) (Parte 2)
+- Base estruturada que alimenta diretamente o [dashboard de acompanhamento](https://github.com/EstherLins/dashboard-acompanhamento-demandas) (Parte 2)
 - Tempo de resposta a novas solicitações reduzido pela notificação automática
 
 ## Observação
